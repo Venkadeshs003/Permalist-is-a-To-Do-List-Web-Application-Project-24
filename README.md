@@ -1,3 +1,8 @@
+screenshots:
+![adding the new item in the list](./screenshots/adding%20the%20new%20item%20in%20the%20list.png)
+![interface for this page](./screenshots/interface%20for%20this%20page.png)
+![sucessfully runing](./screenshots/sucessfully%20runing.gif)
+
 Frontend (EJS Templates):
 Uses EJS views (index.ejs, header.ejs, footer.ejs) to dynamically display tasks and forms for editing or deleting.
 
